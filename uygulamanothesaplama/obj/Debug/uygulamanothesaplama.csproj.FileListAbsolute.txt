@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\bin\Debug\uygulamanothesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\bin\Debug\uygulamanothesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\bin\Debug\uygulamanothesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\uygulamanothesaplama\uygulamanothesaplama\obj\Debug\uygulamanothesaplama.pdb
